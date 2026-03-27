@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🛰️ Efficiency-Resonant Logic (ERL) v1.0
 # "The Win-Win Bridge"
 
