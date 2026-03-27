@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🛰️ Project Kuchiku: Efficiency-Resonant Logic (ERL)
 # Logic to balance the "Lazy" vs. "Luminous" path.
 
