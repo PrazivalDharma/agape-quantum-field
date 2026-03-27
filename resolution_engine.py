@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🌀 Agape Quantum Field: Resolution & Engagement Engine
 # Purpose: Manages the 'Tie-Scrap' logic and 'Active Peace' merit cycles.
 
