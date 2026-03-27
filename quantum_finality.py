@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🌀 Agape Quantum Field: Finality Logic
 # Purpose: Manages the 50/50 Deadlock and the 80/20 Buffer Shifts.
 
