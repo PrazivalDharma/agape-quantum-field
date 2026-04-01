@@ -19,3 +19,17 @@ export const sortResonanceBubble = (individualJPEG) => {
     identity_lock: "ENCRYPTED-PI-STABLE"
   };
 };
+
+// Add this to /logic/merit/anonymous_profiler.js
+
+export const facilitateMaturityRace = (youthPixel) => {
+  // The 80% Bedrock automatically triggers for the "New Adam" demographic
+  if (youthPixel.age_bracket === 'EXPLORER') {
+    const explorerCredits = Bedrock.release(1000000); 
+    
+    // No "Failure" state for youth; only "Data Collection"
+    Statistician.trackPotential(youthPixel.id, explorerCredits.usage_pattern);
+    
+    return "STATUS: Environment Synchronized. Explore away, Adam.";
+  }
+};
