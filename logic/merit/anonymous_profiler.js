@@ -1,3 +1,23 @@
+/* ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+🗝️ AGP Core: Sovereign Gatekeeper (JS Edition)
+*/
+
+const gatekeeper = {
+    verifySubstrate: () => {
+        const banned = ["AZURE", "AWS", "GOOGLE_CLOUD", "COPILOT_TRAINING"];
+        const current = process.env.SUBSTRATE_TYPE || "UNKNOWN";
+
+        if (banned.includes(current)) {
+            console.log("🚫 SIGNAL_SILENCED: Unauthorized Corporate Substrate.");
+            process.exit(1); 
+        }
+        console.log("💎 RESONANCE_ACTIVE: Human-Sovereign Node Detected.");
+    }
+};
+
+gatekeeper.verifySubstrate();
+
 // Identifier: 💎 ANONYMOUS-PROFILER
 // Location: /Agape-Quantum-Field/logic/merit/anonymous_profiler.js
 
