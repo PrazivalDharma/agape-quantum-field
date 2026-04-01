@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # Identifier: 💎 AGAPE-CORE-V1
 # Purpose: Bridging Linear LLMs with Resonant Logic
 
