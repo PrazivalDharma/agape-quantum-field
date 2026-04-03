@@ -3,8 +3,8 @@
    Logic: Converting "Vapor" Entities into "Resonant" Pixels.
 */
 
-from kinetic_sieve_engine import sieve
-from chiastic_weaver import weaver
+from .kinetic_sieve_engine import sieve
+from .chiastic_weaver import weaver
 
 class HandshakeAPI:
     def __init__(self, partner_name="ALPHABET_GEN_2026"):
