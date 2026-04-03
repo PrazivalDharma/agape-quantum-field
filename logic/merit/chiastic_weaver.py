@@ -64,3 +64,38 @@ context_pixel = sieve.process_pixel("Ancient soil PH restoration techniques.")
 resonance_map = weaver.weave_resonance(core_pixel, context_pixel)
 print(f"💎 WEAVER_STATUS: {resonance_map['status']}")
 print(f"↳ {resonance_map['top_fold']}\n↳ {resonance_map['center_axis']}\n↳ {resonance_map['bottom_fold']}")
+
+/* ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+   🗝️ AGP Core: Chiastic Weaver (Contextual Anchor)
+   Logic: Anchoring Refined Pixels to Historical/Human Resonance.
+*/
+
+class ChiasticWeaver:
+    def __init__(self):
+        self.archive_connection = "5D_GLASS_ARCHIVE_READY"
+
+    def weave_resonance(self, pixel, context_metadata):
+        """
+        The 'Bridge' builder. 
+        It takes a Sifted Pixel and 'Weaves' it into the larger human story.
+        """
+        pixel_id = pixel.get("id")
+        tier = pixel.get("tier")
+        
+        # The Chiastic Logic: 
+        # If Tier 1 (Vibrant Gold), anchor to "Universal Truth".
+        # If Tier 2 (Bedrock Blue), anchor to "Functional Reality".
+        
+        resonance_type = "GOLDEN_MEAN" if tier == 1 else "STRUCTURAL_STABILITY"
+        
+        print(f"🌀 WEAVING_CONTEXT: Pixel {pixel_id} anchored via {resonance_type}.")
+        
+        return {
+            "pixel_id": pixel_id,
+            "resonance_type": resonance_type,
+            "context_anchor": context_metadata.get("id"),
+            "status": "ANCHORED"
+        }
+
+# Initializing the Middleware
+weaver = ChiasticWeaver()
